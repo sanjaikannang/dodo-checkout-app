@@ -1,1 +1,1 @@
-# dodo-checkout-app
+# React + TypeScript + Vite
